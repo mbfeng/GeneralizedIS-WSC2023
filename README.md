@@ -1,5 +1,7 @@
 # Generalized Importance Sampling for Nested Simulation: code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24474589.svg)](https://doi.org/10.5281/zenodo.24474589)
+
 R code for the numerical experiments (Section 5) of
 
 > Chen, Q., & Feng, M. B. (2023). Generalized Importance Sampling for Nested Simulation.
@@ -143,6 +145,11 @@ non-stratified branch of Stage II, which the published runs did not use).
 Laptop (Windows 11, R 4.3.3, one core): `reproduce_paper.R` from the summaries, about 5 s;
 200 macro replications (`scripts/run_experiments.R`), about 2 minutes. The paper reports
 no run times.
+
+## Archive
+
+This code is archived on Zenodo: https://doi.org/10.5281/zenodo.24474589 (all versions;
+v1.0.0 is https://doi.org/10.5281/zenodo.24474590).
 
 ## Change log
 

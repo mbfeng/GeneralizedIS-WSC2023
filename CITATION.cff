@@ -9,6 +9,7 @@ authors:
     family-names: Feng
 version: 1.0.0
 license: MIT
+doi: "10.5281/zenodo.24474589"
 repository-code: "https://github.com/mbfeng/GeneralizedIS-WSC2023"
 preferred-citation:
   type: conference-paper
