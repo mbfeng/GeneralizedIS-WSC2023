@@ -1,0 +1,9 @@
+# Saved workspace of the published runs (11 MB; kept with the archive) and R history
+original_2023/WSC2023.RData
+original_2023/.Rhistory
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+.DS_Store
+Thumbs.db

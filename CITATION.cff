@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below (preferred-citation)."
+title: "GeneralizedIS-WSC2023: code for Generalized Importance Sampling for Nested Simulation"
+type: software
+authors:
+  - given-names: Qingyuan
+    family-names: Chen
+  - given-names: Mingbin
+    family-names: Feng
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/mbfeng/GeneralizedIS-WSC2023"
+preferred-citation:
+  type: conference-paper
+  title: "Generalized Importance Sampling for Nested Simulation"
+  authors:
+    - given-names: Qingyuan
+      family-names: Chen
+    - given-names: Mingbin
+      family-names: Feng
+  collection-title: "Proceedings of the 2023 Winter Simulation Conference"
+  start: 409
+  end: 420
+  year: 2023
+  publisher:
+    name: "IEEE"
+  doi: "10.1109/WSC60868.2023.10408062"
