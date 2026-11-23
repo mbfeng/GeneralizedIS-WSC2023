@@ -132,7 +132,9 @@ also holds runs with Gamma = 10^4 for OIS and MLR that the paper does not use. N
 recorded for the published runs, so they cannot be redrawn exactly; the reruns use new
 random numbers.
 
-`original_2023/` also keeps `IronButterfly2.R` (a variant with another portfolio, not used
+`original_2023/plots_2023-04-22.R` is the earlier plotting script that draws the Gamma = 10^3
+runs with 10^3 legends, the closest surviving version to the one behind the published
+figures. `original_2023/` also keeps `IronButterfly2.R` (a variant with another portfolio, not used
 in the paper) and `IronButterfly_2023-04-24.R` (a later copy that changes the
 non-stratified branch of Stage II, which the published runs did not use).
 
